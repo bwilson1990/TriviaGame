@@ -17,6 +17,28 @@ questions answered correctly and incorrectly.
 
 ---
 
+## Technologies Used
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+* Javascript
+
+---
+
+## File Structure
+
+-Root
+* index.html
+* assets
+    * css
+        * style.css
+    * javascript
+        * script.js
+    * images
+
+---
+
 ## Deployed Link:
 
 [Pokemon Trivia Game](https://bwilson1990.github.io/TriviaGame/)
