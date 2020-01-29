@@ -1,4 +1,6 @@
-# unit-5-game (TriviaGame)
+# Pokemon Trivia Game
+
+## Overview
 
 The objective of this assignment was to create a multiple choice question game with a timer.
 
@@ -12,3 +14,15 @@ with another timer of 10 seconds to answer.
 
 After all 10 questions are completed, the user will see a screen with their final score of 
 questions answered correctly and incorrectly.
+
+---
+
+## Deployed Link:
+
+[Pokemon Trivia Game](https://bwilson1990.github.io/TriviaGame/)
+
+---
+
+## Screenshot
+
+![homepage](assets/images/03-pokemon-trivia.png)
